@@ -6,11 +6,13 @@ Me emociona dar vida a interfaces de usuario que no solo sean visualmente atract
 Dominio sólido en:
 JavaScript (ES6+)
 React.js
+Vue
 HTML5
 CSS3 / SASS
 Control de versiones con Git
 Vite
 Jira
+
 
 Actualmente aprendiendo:
 Kotlin
