@@ -1,44 +1,138 @@
-¡Hola! 👋 Soy Iban
-Desarrollador Junior Frontend apasionado por crear experiencias web excepcionales 🚀
-Me emociona dar vida a interfaces de usuario que no solo sean visualmente atractivas, sino también altamente funcionales y accesibles. Mi objetivo es contribuir a proyectos desafiantes mientras continúo expandiendo mis conocimientos en las últimas tecnologías web.
-🛠️ Stack Tecnológico:
+# 🎭 El Teatro del Código
 
-Dominio sólido en:
-JavaScript (ES6+)
-React.js
-Vue
-HTML5
-CSS3 / SASS
-Control de versiones con Git
-Vite
-Jira
+```ascii
+    ╔══════════════════════════════════════╗
+    ║  > whoami                            ║
+    ║  Iban Dorado                         ║
+    ║  Status: Compilando sueños...        ║
+    ║  Location: Frontend Universe         ║
+    ╚══════════════════════════════════════╝
+```
 
+## 🧬 DNA del Desarrollador
 
-Actualmente aprendiendo:
-Kotlin
-TypeScript
-Next.js
-Astro
-Node JS/Bun/Deno
+```javascript
+const iban = {
+  profession: "Frontend Alchemist",
+  currentMission: "Transforming caffeine into code",
+  superpower: "Making pixels dance",
+  weakness: "Infinite scroll social media",
+  
+  getRandomFact() {
+    const facts = [
+      "Debugs faster after midnight",
+      "Can spot a missing semicolon from 3 screens away",  
+      "Dreams in component hierarchies",
+      "Speaks fluent CSS Grid"
+    ];
+    return facts[Math.floor(Math.random() * facts.length)];
+  }
+};
+```
 
-💡 Lo que me define:
+## 🎮 Level Stats
 
-Enfoque en código limpio y mantenible
-Pasión por el aprendizaje continuo
-Experiencia en metodologías ágiles
-Compromiso con las mejores prácticas de desarrollo
+```
+Frontend Skills        ████████████████████░   95%
+Problem Solving        ██████████████████░░░   90%  
+Coffee Consumption     ████████████████████░   99%
+Git Commit Messages    ████████░░░░░░░░░░░░░   40% (working on it 😅)
+```
 
-🌱 Crecimiento Continuo
-Actualmente estoy profundizando mis conocimientos en TypeScript y explorando el ecosistema de Next.js y Astro. Me mantengo al día con las últimas tendencias y mejores prácticas en el desarrollo frontend a través de la práctica constante y el desarrollo de proyectos personales.
-📫 ¿Interesado en colaborar?
+## 🛠️ Arsenal de Guerra
 
-📧 Email: sakio@tuta.io
-💼 LinkedIn: www.linkedin.com/in/iban-dorado-171a4a24b
-🌐 Portfolio: https://portfolio-iban-d.vercel.app
+### ⚔️ Armas Principales
+- **JavaScript ES6+** → *The One Ring of web development*
+- **React.js** → *Building blocks of user happiness*
+- **Vue.js** → *The elegant weapon*
+- **HTML5/CSS3** → *The foundation stones*
 
+### 🧪 Experimentos en Curso
+```diff
++ TypeScript (porque any es el enemigo)
++ Next.js (SSR magic)  
++ Astro (static site wizardry)
++ Kotlin (mobile adventures)
+```
 
+### 🔧 Herramientas del Oficio
+`Git` `Vite` `SASS` `Jira` `VS Code` `Chrome DevTools`
 
-“Si la depuración es el proceso de eliminar errores, entonces la programación es el proceso de ponerlos.”
+## 📊 Commit Activity
 
-No dudes en explorar mis repositorios y contactarme si estás interesado en colaborar en proyectos interesantes o simplemente para intercambiar ideas sobre desarrollo web.
-¡Gracias por visitar mi perfil! 😊
+```
+   Jan  Mar  May  Jul  Sep  Nov
+    |    |    |    |    |    |
+    ████ ████ ████ ████ ████ ████  Another year of code
+```
+
+## 🎯 Misiones Actuales
+
+- [ ] Dominar TypeScript (progress: 60%)
+- [ ] Crear una app que no necesite 47 dependencies  
+- [ ] Escribir CSS que funcione en IE... ¡mentira! 😂
+- [ ] Contribuir a proyectos open source
+- [ ] Alcanzar el zen del código limpio
+
+## 🌟 Easter Eggs
+
+<details>
+<summary>🎪 Click para revelar secretos del desarrollador</summary>
+
+```javascript
+// Mi mantra favorito
+while (coffee.isEmpty()) {
+  brain.performance--;
+  if (brain.performance < 20) {
+    coffee.refill();
+    break;
+  }
+}
+
+// Filosofía de vida
+const lifePhilosophy = `
+  "Si la depuración es el proceso de eliminar errores,
+   entonces la programación es el proceso de ponerlos."
+   
+   - Pero hey, al menos son errores creativos 🎨
+`;
+```
+
+</details>
+
+## 🚀 Zona de Contacto
+
+```bash
+# Clona mi atención
+git clone https://github.com/iban-portfolio.git
+
+# Instala dependencias sociales  
+npm install collaboration friendship
+
+# Ejecuta comandos de comunicación
+echo "📧 sakio@tuta.io"
+echo "💼 LinkedIn: linkedin.com/in/iban-dorado-171a4a24b"  
+echo "🌐 Portfolio: https://portfolio-iban-d.vercel.app"
+```
+
+## ⚡ Quick Deploy
+
+¿Proyecto interesante? ¿Café incluido? ¿Desafíos que resolver?
+
+```bash
+npm run collaborate-with-iban
+```
+
+---
+
+<div align="center">
+
+*"En un mundo lleno de divs, sé un semantic HTML"* 🌍
+
+**Made with 💙 and probably too much Vue**
+
+[![Visitors](https://img.shields.io/badge/Curiosos-∞-brightgreen)]()
+[![Coffee](https://img.shields.io/badge/Coffee-Required-brown)]()
+[![Status](https://img.shields.io/badge/Status-Coding-success)]()
+
+</div>
