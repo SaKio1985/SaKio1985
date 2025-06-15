@@ -1,67 +1,75 @@
-# ⚡ NETRUNNER.EXE
+# ⚡ CHOOM.EXE
 
 ```ascii
     ╔═══════════════════════════════════════╗
-    ║  $ conectar --usuario=iban_dorado     ║
+    ║  $ jack_in --usuario=iban_dorado      ║
     ║  > Enlace neural establecido...       ║
-    ║  > Estado: Hackeando la realidad      ║
-    ║  > Ubicación: La Matrix (Frontend)    ║
-    ║  > Nivel de amenaza: Amigable         ║
+    ║  > Ciberespacio: Navegando el código  ║
+    ║  > Night City: Sector Frontend        ║
+    ║  > Estado: Preem y operativo          ║
     ╚═══════════════════════════════════════╝
 ```
 
-## 🤖 PERFIL DE NETRUNNER
+## 🤖 PERFIL DE NETRUNNER - NIGHT CITY DATABASE
 
 ```javascript
-const netrunner_iban = {
-  clase: "Netrunner Frontend",
-  especialización: "Diseñador de Interfaces", 
-  misión_actual: "Infiltrando bases de código legacy",
-  ciberware: ["Procesador Neural React", "Potenciador de Reflejos JavaScript"],
-  debilidad: "Vulnerabilidades sin parchear de IE",
+const data_iban = {
+  alias: "Frontend_Cowboy",
+  clase: "Netrunner / Code Jockey", 
+  crew: "Arasaka Developers Division",
+  gig_actual: "Infiltrando ICE corporativo legacy",
+  chrome: ["Kereznikov JS", "Sandevistan React", "Cyberdeck Mantis Blades"],
+  weak_spot: "Malware de Internet Explorer",
   
-  tirarDados() {
-    const resultados = [
-      "Éxito crítico: Bug arreglado al primer intento",
-      "Natural 20: Componente renderiza perfectamente",  
-      "Pifia: 3 horas perdidas por una coma",
-      "Tirada afortunada: Stack Overflow tenía la respuesta"
+  flatline_check() {
+    const outcomes = [
+      "¡Preem! Bug neutralizado al primer intento",
+      "Nova run: Componente compila sin errores",  
+      "Glitch: Tres horas cazando un punto y coma",
+      "Lucky break: La Madre de todas las APIs respondió"
     ];
-    return resultados[Math.floor(Math.random() * resultados.length)];
+    return outcomes[Math.floor(Math.random() * outcomes.length)];
   }
 };
+
+// "El ciberespacio es una alucinación consensual..."
+// - William Gibson, mi santo patrón del código
 ```
 
-## 📊 ESTADÍSTICAS DE INTERFAZ NEURAL
+## 📊 CHROME Y STATS - MILITECH CERTIFIED
 
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-║ ÁRBOL DE HABILIDADES                    ║
+║ NEURAL INTERFACE READINGS               ║
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-   Hacking (JS)        ████████████████████░   95%
-   Sigilo (CSS)        ██████████████████░░░   90%  
-   Tolerancia Cafeína  ████████████████████░   99%
-   Documentación       ████████░░░░░░░░░░░░░   40% (farmeando XP 😅)
+   Netrunning (JS)     ████████████████████░   95%
+   Stealth Ops (CSS)   ██████████████████░░░   90%  
+   Stim Tolerance      ████████████████████░   99%
+   DocuWork            ████████░░░░░░░░░░░░░   40% (still grinding, choom 😅)
+
+// Humanity Cost: Still got my soul, mostly
 ```
 
-## 🔫 CONFIGURACIÓN DEL CYBERDECK
+## 🔫 DECK SETUP - BARTMOSS APPROVED
 
-### ⚡ Programas Principales
-- **JavaScript ES6+** → *Ruta neural principal*
-- **React.js** → *Framework de manipulación de realidad*
-- **Vue.js** → *Interfaz modo sigilo*
-- **HTML5/CSS3** → *Rompehielos de fundación*
+### ⚡ Programas de Ataque Principal
+- **JavaScript ES6+** → *Icebreaker principal, nunca me ha fallado*
+- **React.js** → *Virus de manipulación de DOM letal*
+- **Vue.js** → *Programa sigilo para infiltración*
+- **HTML5/CSS3** → *Herramientas básicas de demolición*
 
-### 🔮 Programas Beta (Instalando...)
+### 🔮 Beta Programs (Downloading from Pacifica...)
 ```diff
-+ TypeScript (protocolos de seguridad de tipos)
-+ Next.js (infiltración server-side)  
-+ Astro (camuflaje de sitios estáticos)
-+ Kotlin (expansión de red móvil)
++ TypeScript (anti-virus corporativo)
++ Next.js (programa de ataque server-side)  
++ Astro (cloaking device para sitios estáticos)
++ Kotlin (expansión hacia redes móviles)
 ```
 
-### 🖥️ Especificaciones Hardware
+### 🖥️ Hardware Street Cred
 `Git` `Vite` `SASS` `Jira` `VS Code` `Chrome DevTools`
+
+*"Recuerda choom, en Night City solo necesitas ser más rápido que el ICE"*
 
 ## 📊 ACTIVIDAD DE COMMITS
 
@@ -71,73 +79,83 @@ const netrunner_iban = {
     ████ ████ ████ ████ ████ ████  Otro año de código
 ```
 
-## 🎯 MISIONES ACTIVAS
+## 🎯 GIGS ACTIVOS - FIXER BOARD
 
-- [ ] Dominar protocolos TypeScript (progreso: 60%)
-- [ ] Construir aplicaciones sin dependencias  
-- [ ] Sobrevivir otro debate de CSS-in-JS
-- [ ] Contribuir al colectivo (código abierto)
-- [ ] Alcanzar estatus de calidad de código legendaria
+- [ ] Masterizar protocolos TypeScript (progreso: 60%)
+- [ ] Construir apps sin dependencias corporativas  
+- [ ] Sobrevivir otra guerra de frameworks
+- [ ] Contribuir al colectivo underground (open source)
+- [ ] Alcanzar estatus de leyenda en Night City
 
-## 🔮 BANCO DE DATOS OCULTO
+*"Es hora de despertar, samurai. Tenemos bugs que resolver."*
+
+## 🔮 ENCRYPTED DATABANK - RACHE BARTMOSS SPECIAL
 
 <details>
-<summary>🏴‍☠️ Acceder a intel clasificada</summary>
+<summary>🏴‍☠️ Acceder a archivos clasificados (Netwatch no welcome)</summary>
 
 ```javascript
-// mantra_corporativo.exe
-while (cafe.temperatura > 0) {
-  productividad.aumentar();
-  if (bugs.detectados()) {
-    console.log("No es un bug, es una característica");
-    cafe.rellenar();
+// daily_routine.exe - inspired by Case's morning ritual
+while (synthetic_coffee.available()) {
+  consciousness.load();
+  if (black_ice.detected()) {
+    console.log("No es un bug, es una característica especial");
+    stimulants.inject();
   }
 }
 
-// Subrutina de filosofía personal
-const sabiduría_netrunner = `
-  "Si debuggear es quitar bugs,
-   entonces programar es añadir características."
+// Filosofía del vaquero del ciberespacio
+const cowboy_wisdom = `
+  "El ciberespacio es una alucinación consensual 
+   experimentada diariamente por miles de millones...
+   Y yo soy uno de los arquitectos de esa alucinación."
    
-   - Cada crash es solo el sistema pidiendo atención 🔥
+   - Cada línea de código es un fragmento de realidad virtual 🌐
 `;
+
+// Edge of tomorrow protocol
+if (humanity < 10) {
+  console.log("Time to flatline, but not today choom");  
+}
 ```
 
 </details>
 
-## 📡 PROTOCOLOS DE COMUNICACIÓN
+## 📡 COMUNICACIONES - ENCRYPTED CHANNEL
 
 ```bash
-# Establecer conexión segura
-ssh iban@cyberdeck.local
+# Establecer conexión con el fixer
+ssh iban@night_city.net
 
-# Instalar paquetes de colaboración  
-npm install --save amistad trabajo-equipo cafe
+# Instalar crew essentials  
+npm install --save trust loyalty synthetic_coffee
 
-# Ejecutar protocolos de contacto
-echo "📧 sakio@tuta.io"
-echo "💼 Perfil Corporativo: linkedin.com/in/iban-dorado-171a4a24b"  
-echo "🌐 Showcase Digital: https://portfolio-iban-d.vercel.app"
+# Ejecutar protocolos de contacto - solo para chooms de confianza
+echo "📧 sakio@tuta.io [ENCRYPTED]"
+echo "💼 Corporate Front: linkedin.com/in/iban-dorado-171a4a24b"  
+echo "🌐 Digital Showcase: https://portfolio-iban-d.vercel.app"
 ```
 
-## ⚡ INICIAR CONEXIÓN
+## ⚡ JACK IN - READY FOR ANOTHER RUN
 
-¿Proyecto que hackear? ¿Sistema que mejorar? ¿Red que construir?
+¿Gig interesante? ¿ICE corporativo que romper? ¿Nueva crew que formar?
 
 ```bash
-./ejecutar_colaboracion.exe --objetivo=tu_proyecto
+./init_collab.exe --target=your_mainframe --danger_level=maximum
 ```
 
 ---
 
 <div align="center">
 
-*"En un mundo de código corporativo, sé el hacker underground"* 🏴‍☠️
+*"El futuro ya está aquí, solo está mal distribuido"* - William Gibson 🌆
 
-**Compilado con 🖤 y cantidades excesivas de café sintético**
+**Compiled with 🖤 synthetic blood and enough stims to power Night City**
 
-[![Estado Red](https://img.shields.io/badge/Red-Online-00ff41)]()
-[![Nivel Amenaza](https://img.shields.io/badge/Nivel%20Amenaza-Amigable-blue)]()
-[![Estado](https://img.shields.io/badge/Estado-Listo%20Para%20Conectar-ff6b6b)]()
+[![Night City Status](https://img.shields.io/badge/Night%20City-Online-00ff41)]()
+[![Humanity](https://img.shields.io/badge/Humanity-Still%20Human-blue)]()
+[![Flatline Risk](https://img.shields.io/badge/Flatline%20Risk-Acceptable-ff6b6b)]()
+
+*Remember choom: "Style over Substance"* ⚡
 
 </div>
