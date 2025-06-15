@@ -1,138 +1,143 @@
-# 🎭 El Teatro del Código
+# ⚡ NETRUNNER.EXE
 
 ```ascii
-    ╔══════════════════════════════════════╗
-    ║  > whoami                            ║
-    ║  Iban Dorado                         ║
-    ║  Status: Compilando sueños...        ║
-    ║  Location: Frontend Universe         ║
-    ╚══════════════════════════════════════╝
+    ╔═══════════════════════════════════════╗
+    ║  $ conectar --usuario=iban_dorado     ║
+    ║  > Enlace neural establecido...       ║
+    ║  > Estado: Hackeando la realidad      ║
+    ║  > Ubicación: La Matrix (Frontend)    ║
+    ║  > Nivel de amenaza: Amigable         ║
+    ╚═══════════════════════════════════════╝
 ```
 
-## 🧬 DNA del Desarrollador
+## 🤖 PERFIL DE NETRUNNER
 
 ```javascript
-const iban = {
-  profession: "Frontend Alchemist",
-  currentMission: "Transforming caffeine into code",
-  superpower: "Making pixels dance",
-  weakness: "Infinite scroll social media",
+const netrunner_iban = {
+  clase: "Netrunner Frontend",
+  especialización: "Diseñador de Interfaces", 
+  misión_actual: "Infiltrando bases de código legacy",
+  ciberware: ["Procesador Neural React", "Potenciador de Reflejos JavaScript"],
+  debilidad: "Vulnerabilidades sin parchear de IE",
   
-  getRandomFact() {
-    const facts = [
-      "Debugs faster after midnight",
-      "Can spot a missing semicolon from 3 screens away",  
-      "Dreams in component hierarchies",
-      "Speaks fluent CSS Grid"
+  tirarDados() {
+    const resultados = [
+      "Éxito crítico: Bug arreglado al primer intento",
+      "Natural 20: Componente renderiza perfectamente",  
+      "Pifia: 3 horas perdidas por una coma",
+      "Tirada afortunada: Stack Overflow tenía la respuesta"
     ];
-    return facts[Math.floor(Math.random() * facts.length)];
+    return resultados[Math.floor(Math.random() * resultados.length)];
   }
 };
 ```
 
-## 🎮 Level Stats
+## 📊 ESTADÍSTICAS DE INTERFAZ NEURAL
 
 ```
-Frontend Skills        ████████████████████░   95%
-Problem Solving        ██████████████████░░░   90%  
-Coffee Consumption     ████████████████████░   99%
-Git Commit Messages    ████████░░░░░░░░░░░░░   40% (working on it 😅)
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+║ ÁRBOL DE HABILIDADES                    ║
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   Hacking (JS)        ████████████████████░   95%
+   Sigilo (CSS)        ██████████████████░░░   90%  
+   Tolerancia Cafeína  ████████████████████░   99%
+   Documentación       ████████░░░░░░░░░░░░░   40% (farmeando XP 😅)
 ```
 
-## 🛠️ Arsenal de Guerra
+## 🔫 CONFIGURACIÓN DEL CYBERDECK
 
-### ⚔️ Armas Principales
-- **JavaScript ES6+** → *The One Ring of web development*
-- **React.js** → *Building blocks of user happiness*
-- **Vue.js** → *The elegant weapon*
-- **HTML5/CSS3** → *The foundation stones*
+### ⚡ Programas Principales
+- **JavaScript ES6+** → *Ruta neural principal*
+- **React.js** → *Framework de manipulación de realidad*
+- **Vue.js** → *Interfaz modo sigilo*
+- **HTML5/CSS3** → *Rompehielos de fundación*
 
-### 🧪 Experimentos en Curso
+### 🔮 Programas Beta (Instalando...)
 ```diff
-+ TypeScript (porque any es el enemigo)
-+ Next.js (SSR magic)  
-+ Astro (static site wizardry)
-+ Kotlin (mobile adventures)
++ TypeScript (protocolos de seguridad de tipos)
++ Next.js (infiltración server-side)  
++ Astro (camuflaje de sitios estáticos)
++ Kotlin (expansión de red móvil)
 ```
 
-### 🔧 Herramientas del Oficio
+### 🖥️ Especificaciones Hardware
 `Git` `Vite` `SASS` `Jira` `VS Code` `Chrome DevTools`
 
-## 📊 Commit Activity
+## 📊 ACTIVIDAD DE COMMITS
 
 ```
-   Jan  Mar  May  Jul  Sep  Nov
+   Ene  Mar  May  Jul  Sep  Nov
     |    |    |    |    |    |
-    ████ ████ ████ ████ ████ ████  Another year of code
+    ████ ████ ████ ████ ████ ████  Otro año de código
 ```
 
-## 🎯 Misiones Actuales
+## 🎯 MISIONES ACTIVAS
 
-- [ ] Dominar TypeScript (progress: 60%)
-- [ ] Crear una app que no necesite 47 dependencies  
-- [ ] Escribir CSS que funcione en IE... ¡mentira! 😂
-- [ ] Contribuir a proyectos open source
-- [ ] Alcanzar el zen del código limpio
+- [ ] Dominar protocolos TypeScript (progreso: 60%)
+- [ ] Construir aplicaciones sin dependencias  
+- [ ] Sobrevivir otro debate de CSS-in-JS
+- [ ] Contribuir al colectivo (código abierto)
+- [ ] Alcanzar estatus de calidad de código legendaria
 
-## 🌟 Easter Eggs
+## 🔮 BANCO DE DATOS OCULTO
 
 <details>
-<summary>🎪 Click para revelar secretos del desarrollador</summary>
+<summary>🏴‍☠️ Acceder a intel clasificada</summary>
 
 ```javascript
-// Mi mantra favorito
-while (coffee.isEmpty()) {
-  brain.performance--;
-  if (brain.performance < 20) {
-    coffee.refill();
-    break;
+// mantra_corporativo.exe
+while (cafe.temperatura > 0) {
+  productividad.aumentar();
+  if (bugs.detectados()) {
+    console.log("No es un bug, es una característica");
+    cafe.rellenar();
   }
 }
 
-// Filosofía de vida
-const lifePhilosophy = `
-  "Si la depuración es el proceso de eliminar errores,
-   entonces la programación es el proceso de ponerlos."
+// Subrutina de filosofía personal
+const sabiduría_netrunner = `
+  "Si debuggear es quitar bugs,
+   entonces programar es añadir características."
    
-   - Pero hey, al menos son errores creativos 🎨
+   - Cada crash es solo el sistema pidiendo atención 🔥
 `;
 ```
 
 </details>
 
-## 🚀 Zona de Contacto
+## 📡 PROTOCOLOS DE COMUNICACIÓN
 
 ```bash
-# Clona mi atención
-git clone https://github.com/iban-portfolio.git
+# Establecer conexión segura
+ssh iban@cyberdeck.local
 
-# Instala dependencias sociales  
-npm install collaboration friendship
+# Instalar paquetes de colaboración  
+npm install --save amistad trabajo-equipo cafe
 
-# Ejecuta comandos de comunicación
+# Ejecutar protocolos de contacto
 echo "📧 sakio@tuta.io"
-echo "💼 LinkedIn: linkedin.com/in/iban-dorado-171a4a24b"  
-echo "🌐 Portfolio: https://portfolio-iban-d.vercel.app"
+echo "💼 Perfil Corporativo: linkedin.com/in/iban-dorado-171a4a24b"  
+echo "🌐 Showcase Digital: https://portfolio-iban-d.vercel.app"
 ```
 
-## ⚡ Quick Deploy
+## ⚡ INICIAR CONEXIÓN
 
-¿Proyecto interesante? ¿Café incluido? ¿Desafíos que resolver?
+¿Proyecto que hackear? ¿Sistema que mejorar? ¿Red que construir?
 
 ```bash
-npm run collaborate-with-iban
+./ejecutar_colaboracion.exe --objetivo=tu_proyecto
 ```
 
 ---
 
 <div align="center">
 
-*"En un mundo lleno de divs, sé un semantic HTML"* 🌍
+*"En un mundo de código corporativo, sé el hacker underground"* 🏴‍☠️
 
-**Made with 💙 and probably too much Vue**
+**Compilado con 🖤 y cantidades excesivas de café sintético**
 
-[![Visitors](https://img.shields.io/badge/Curiosos-∞-brightgreen)]()
-[![Coffee](https://img.shields.io/badge/Coffee-Required-brown)]()
-[![Status](https://img.shields.io/badge/Status-Coding-success)]()
+[![Estado Red](https://img.shields.io/badge/Red-Online-00ff41)]()
+[![Nivel Amenaza](https://img.shields.io/badge/Nivel%20Amenaza-Amigable-blue)]()
+[![Estado](https://img.shields.io/badge/Estado-Listo%20Para%20Conectar-ff6b6b)]()
 
 </div>
